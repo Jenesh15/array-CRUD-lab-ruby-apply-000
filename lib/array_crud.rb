@@ -37,5 +37,9 @@ end
 
 def retrieve_last_element_from_array(array)
   array = ["arrays!"]
+<<<<<<< HEAD
   return array[-1]
+=======
+  return array.pop
+>>>>>>> 42db354e6739f6da46495f20f01ee8d56fda2489
 end
